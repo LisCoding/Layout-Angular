@@ -1,0 +1,13 @@
+.main {
+  background-color: #9ec5f7;
+  border: 2px solid black;
+  display: inline-block;
+  width: 915px;
+  margin: 30px;
+  height: 500px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+#title {
+  margin-left: -16px;
+}
